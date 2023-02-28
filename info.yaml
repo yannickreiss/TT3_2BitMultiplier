@@ -41,6 +41,8 @@ documentation:
     - number_21
     - none
     - none
+    - none
+    - none
 # A description of what the outputs do
   outputs:
     - product_lsb
